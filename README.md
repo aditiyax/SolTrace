@@ -1,5 +1,5 @@
 
-# Solana Transaction Fetcher
+# Solana Transaction Tracker
 
 **Solana Transaction Fetcher** is a simple web-based application that allows users to input a Solana wallet address and view the latest 10 transactions associated with that wallet. It provides key details such as the transaction signatures, transaction amounts in SOL, and a direct link to view each transaction on Solscan.
 
